@@ -17,7 +17,7 @@ This MATLAB script converts a 3D vector between Cartesian, Cylindrical, and Sphe
 - Data output formatting
 
 🖼️ Example Output:  
-![Coordinate Transformation Sample](coordinate_transform/sample_output.png)
+![Coordinate Transformation Sample](coordinate_transform/sample_output.jpg)
 
 ---
 
